@@ -1,0 +1,7 @@
+It's just a codes that i used to code about web programming
+Sorry, it's unreadable, just for my notes and i think it'll be good
+if i post it on my Github.
+It includes HTML, CSS, and also JavaScript
+and i hope it'll include PHP soon.
+
+:)
